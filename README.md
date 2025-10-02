@@ -89,7 +89,7 @@ The MobileNetV2 model was then fine-tuned. During this phase, the model began to
 The final results for the fine-tuned MobileNetV2 model are:
 
 - Final Validation Accuracy: 81.09%
-- Final Accuracy: 93.37
+- Final Accuracy: 93.37%
 
 While the final validation accuracy is slightly lower than the peak from the initial training, this is a more robust result obtained from training on the full dataset with a more complex (partially unfrozen) model. The process demonstrates a complete and realistic deep learning workflow.
 
